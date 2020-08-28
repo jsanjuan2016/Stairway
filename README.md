@@ -1,2 +1,2 @@
 # Code
- Patrópn stairway e inyección de dependencias
+ Patrón stairway e inyección de dependencias
