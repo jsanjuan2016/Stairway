@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztfvDdxoopffVG6mPwuHPBlp5Nxn/+LyL/NodQWzSGp7YZtc6I/Cnj47drGDK/WKhpCITC7Jh4iSueAClY2VfA==",
+  "success": true,
+  "projectFilePath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Core\\Stairway.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

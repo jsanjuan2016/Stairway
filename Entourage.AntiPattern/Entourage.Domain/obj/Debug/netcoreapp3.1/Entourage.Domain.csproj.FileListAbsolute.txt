@@ -1,0 +1,9 @@
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\bin\Debug\netcoreapp3.1\Entourage.Domain.deps.json
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\bin\Debug\netcoreapp3.1\Entourage.Domain.dll
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\bin\Debug\netcoreapp3.1\Entourage.Domain.pdb
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.csprojAssemblyReference.cache
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.AssemblyInfoInputs.cache
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.AssemblyInfo.cs
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.csproj.CoreCompileInputs.cache
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.dll
+N:\ARTICULOS\DI y Stairway\Entourage.AntiPattern\Entourage.Domain\obj\Debug\netcoreapp3.1\Entourage.Domain.pdb

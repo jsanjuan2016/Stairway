@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stairway.DomainInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stairway.DomainInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.DomainInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stairway.DomainInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.DomainInterfaces/Stairway.DomainInterfaces.csproj",
+      "msbuildProject": "../Stairway.DomainInterfaces/Stairway.DomainInterfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Stairway.DomainInterfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Domain\\Stairway.Domain.csproj",
+      "projectName": "Stairway.Domain",
+      "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Domain\\Stairway.Domain.csproj",
+      "packagesPath": "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\",
+      "outputPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Javier Sanjuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.DomainInterfaces\\Stairway.DomainInterfaces.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.DomainInterfaces\\Stairway.DomainInterfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

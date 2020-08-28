@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHtFov1CoxbhEaU+M0e2iR0eXr2RFGIqIt5lWjciWv9hDJfmvjku0h/5CU8z6jH3Rp7ZtAXWDYN6KwRjtYn6fA==",
+  "success": true,
+  "projectFilePath": "N:\\ARTICULOS\\DI y Stairway\\Code\\Entourage.AntiPattern\\Entourage.Core\\Entourage.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

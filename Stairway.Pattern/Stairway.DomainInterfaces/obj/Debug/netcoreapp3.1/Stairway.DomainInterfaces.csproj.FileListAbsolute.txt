@@ -1,0 +1,16 @@
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.deps.json
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.AssemblyInfoInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.AssemblyInfo.cs
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.deps.json
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.AssemblyInfoInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.AssemblyInfo.cs
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.csproj.CoreCompileInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.DomainInterfaces\obj\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb

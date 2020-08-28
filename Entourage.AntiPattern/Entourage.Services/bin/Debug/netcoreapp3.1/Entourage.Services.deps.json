@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Entourage.Services/1.0.0": {
+        "dependencies": {
+          "Entourage.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Entourage.Services.dll": {}
+        }
+      },
+      "Entourage.Domain/1.0.0": {
+        "runtime": {
+          "Entourage.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entourage.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entourage.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

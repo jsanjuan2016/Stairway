@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stairway.Client/1.0.0": {
+        "dependencies": {
+          "Stairway.ClientInterfaces": "1.0.0",
+          "Stairway.ServicesInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "Stairway.Client.dll": {}
+        }
+      },
+      "Stairway.ClientInterfaces/1.0.0": {
+        "runtime": {
+          "Stairway.ClientInterfaces.dll": {}
+        }
+      },
+      "Stairway.ServicesInterfaces/1.0.0": {
+        "runtime": {
+          "Stairway.ServicesInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stairway.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stairway.ClientInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stairway.ServicesInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

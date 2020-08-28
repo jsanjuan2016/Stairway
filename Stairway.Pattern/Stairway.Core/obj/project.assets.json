@@ -1,0 +1,260 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection/3.1.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.7"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Stairway.Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Stairway.ClientInterfaces": "1.0.0",
+          "Stairway.ServicesInterfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Stairway.Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.Client.dll": {}
+        }
+      },
+      "Stairway.ClientInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stairway.ClientInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.ClientInterfaces.dll": {}
+        }
+      },
+      "Stairway.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Stairway.DomainInterfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Stairway.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.Domain.dll": {}
+        }
+      },
+      "Stairway.DomainInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stairway.DomainInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.DomainInterfaces.dll": {}
+        }
+      },
+      "Stairway.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Stairway.DomainInterfaces": "1.0.0",
+          "Stairway.ServicesInterfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Stairway.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.Services.dll": {}
+        }
+      },
+      "Stairway.ServicesInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Stairway.ServicesInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stairway.ServicesInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/3.1.7": {
+      "sha512": "yp38AFc5tJQZkjINjXBcxq+dANU06lo27D84duitZthtRPsgKJL87uf9RWRsDdRsWd+kXflmdMWFLKFjyKx6Pw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/3.1.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.7": {
+      "sha512": "oKL2yNtTN1/cOp+cbdyv5TeLzO+GkO9B3fvbcPzKWTNCkDoH3ccYS3FWC1p4KSYe9frW4WsyfSTeM8X+xftOig==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Stairway.Client/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.Client/Stairway.Client.csproj",
+      "msbuildProject": "../Stairway.Client/Stairway.Client.csproj"
+    },
+    "Stairway.ClientInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.ClientInterfaces/Stairway.ClientInterfaces.csproj",
+      "msbuildProject": "../Stairway.ClientInterfaces/Stairway.ClientInterfaces.csproj"
+    },
+    "Stairway.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.Domain/Stairway.Domain.csproj",
+      "msbuildProject": "../Stairway.Domain/Stairway.Domain.csproj"
+    },
+    "Stairway.DomainInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.DomainInterfaces/Stairway.DomainInterfaces.csproj",
+      "msbuildProject": "../Stairway.DomainInterfaces/Stairway.DomainInterfaces.csproj"
+    },
+    "Stairway.Services/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.Services/Stairway.Services.csproj",
+      "msbuildProject": "../Stairway.Services/Stairway.Services.csproj"
+    },
+    "Stairway.ServicesInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Stairway.ServicesInterfaces/Stairway.ServicesInterfaces.csproj",
+      "msbuildProject": "../Stairway.ServicesInterfaces/Stairway.ServicesInterfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Extensions.DependencyInjection >= 3.1.7",
+      "Stairway.Client >= 1.0.0",
+      "Stairway.ClientInterfaces >= 1.0.0",
+      "Stairway.Domain >= 1.0.0",
+      "Stairway.DomainInterfaces >= 1.0.0",
+      "Stairway.Services >= 1.0.0",
+      "Stairway.ServicesInterfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Core\\Stairway.Core.csproj",
+      "projectName": "Stairway.Core",
+      "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Core\\Stairway.Core.csproj",
+      "packagesPath": "C:\\Users\\Javier Sanjuan\\.nuget\\packages\\",
+      "outputPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Javier Sanjuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.ClientInterfaces\\Stairway.ClientInterfaces.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.ClientInterfaces\\Stairway.ClientInterfaces.csproj"
+            },
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Client\\Stairway.Client.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Client\\Stairway.Client.csproj"
+            },
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.DomainInterfaces\\Stairway.DomainInterfaces.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.DomainInterfaces\\Stairway.DomainInterfaces.csproj"
+            },
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Domain\\Stairway.Domain.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Domain\\Stairway.Domain.csproj"
+            },
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.ServicesInterfaces\\Stairway.ServicesInterfaces.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.ServicesInterfaces\\Stairway.ServicesInterfaces.csproj"
+            },
+            "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Services\\Stairway.Services.csproj": {
+              "projectPath": "N:\\ARTICULOS\\DI y Stairway\\Stairway.Pattern\\Stairway.Services\\Stairway.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.1.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.deps.json
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.AssemblyInfoInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.AssemblyInfo.cs
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.deps.json
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.csprojAssemblyReference.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.AssemblyInfoInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.AssemblyInfo.cs
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.csproj.CoreCompileInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.ClientInterfaces\obj\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb

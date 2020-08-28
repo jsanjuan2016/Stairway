@@ -1,0 +1,56 @@
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.exe
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.deps.json
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.runtimeconfig.json
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.runtimeconfig.dev.json
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csprojAssemblyReference.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.AssemblyInfoInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.AssemblyInfo.cs
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.genruntimeconfig.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csproj.CoreCompileInputs.cache
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Client.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Domain.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Services.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ServicesInterfaces.dll
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Client.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Domain.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ServicesInterfaces.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Services.pdb
+C:\Users\Javier Sanjuan\source\repos\Stairway.Client\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csproj.CopyComplete
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.exe
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.deps.json
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.runtimeconfig.json
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.runtimeconfig.dev.json
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Core.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Client.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Domain.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Services.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ServicesInterfaces.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ClientInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Client.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.DomainInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Domain.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.ServicesInterfaces.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\bin\Debug\netcoreapp3.1\Stairway.Services.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csprojAssemblyReference.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.AssemblyInfoInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.AssemblyInfo.cs
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csproj.CoreCompileInputs.cache
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.csproj.CopyComplete
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.dll
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.pdb
+N:\ARTICULOS\DI y Stairway\Stairway.Pattern\Stairway.Core\obj\Debug\netcoreapp3.1\Stairway.Core.genruntimeconfig.cache
