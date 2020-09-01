@@ -1,2 +1,2 @@
 # Code
- Patrón stairway e inyección de dependencias
+ Ejemplos de patrones stairway, entourage e inyección de dependencias
